@@ -252,4 +252,3 @@ class GPG_Public_Key {
 	}
 }
 
-?>
