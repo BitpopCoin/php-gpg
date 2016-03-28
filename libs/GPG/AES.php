@@ -60,4 +60,3 @@ class GPG_AES
 	}
 }
 
-?>
