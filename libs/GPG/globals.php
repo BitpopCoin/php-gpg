@@ -407,4 +407,4 @@ function safeStrlen($string) {
     return strlen($string);
 }
 
-?>
+
